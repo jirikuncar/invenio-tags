@@ -36,9 +36,9 @@ requirements = [
 
 test_requirements = [
     'pytest',
-    'pytest-cov',
+    # 'pytest-cov',
     'pytest-pep8',
-    'coverage',
+    # 'coverage',
 ]
 
 

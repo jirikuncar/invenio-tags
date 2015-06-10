@@ -90,5 +90,5 @@ script:
   - "python setup.py test"
 #  - "wget -O /dev/null http://localhost"
 
-after_success:
-  - coveralls
+# after_success:
+#   - coveralls
